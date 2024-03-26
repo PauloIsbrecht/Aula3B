@@ -5,8 +5,8 @@
 
 ### Equipe
 * Alberto
-* André
-* Maycon
+* Paulo Henrique
+* Ana Claudia
 
 ```
 mpm install bootstrap
